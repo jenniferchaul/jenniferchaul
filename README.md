@@ -69,6 +69,8 @@ To do so, I decided to join the O'Clock school's training program for applicatio
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="linux" alt="linux" width="40" height="40"/>
   
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="mysql" alt="mysql" width="40" height="40"/>
+ 
+  <img src="https://insomnia.rest/images/insomnia-logo.svg" title="insomnia" alt="insomnia"/>
   
 </div>
 
