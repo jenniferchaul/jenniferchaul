@@ -29,7 +29,7 @@ To do so, I decided to join the O'Clock school's training program for applicatio
 
 
 - 👀 I’m interested in __PHP__ and __Javascript__.
-- 🔖 Discover <a href="assets/docs/JENNIFER CHAUL CV 2022.pdf">my Curriculum Vita</a>
+- 🔖 Discover <a href="assets/docs/JENNIFER CHAUL CV 2022.pdf">my Curriculum Vitae</a>
 - 📫 How to reach me : chaul.jennifer@gmail.com
 
 ## :hammer_and_wrench: Languages, Frameworks and Tools
