@@ -10,7 +10,7 @@ You can click the Preview link to take a look at your changes.
 ## Welcome to my GitHub profile
 
 <p align="center">
-  <a href="https://jenniferchaul.github.io/">Portfolio</a> •
+  <a href="https://jcdevandcode.fr/">Portfolio</a> •
   <a href="https://www.linkedin.com/in/jennifer-chaul">LinkedIn</a>
 </p>
 
